@@ -1,4 +1,11 @@
 {
-  "versione": 1,
-  "alimenti": []
+  "versione": 2,
+  "alimenti": [
+    {"codice": "U0001", "nome": "Tofu, solido (coagulato con solfato di calcio)", "categoria": "Legumi", "kcal": 144, "proteine": 17.3, "carboidrati": 2.8, "grassi": 8.7, "fibra": 2.3, "sodio": 14},
+    {"codice": "U0002", "nome": "Semi di chia, secchi", "categoria": "Frutta secca a guscio e semi oleaginosi", "kcal": 486, "proteine": 16.5, "carboidrati": 42.1, "grassi": 30.7, "fibra": 34.4},
+    {"codice": "U0003", "nome": "Semi di lino", "categoria": "Frutta secca a guscio e semi oleaginosi", "kcal": 534, "proteine": 18.3, "carboidrati": 28.9, "grassi": 42.2},
+    {"codice": "U0004", "nome": "Tahin (crema di sesamo)", "categoria": "Frutta secca a guscio e semi oleaginosi", "kcal": 570, "proteine": 17.8, "carboidrati": 26.2, "grassi": 48.0},
+    {"codice": "U0005", "nome": "Bulgur, cotto, bollito", "categoria": "Cereali e derivati", "kcal": 83, "proteine": 3.1, "carboidrati": 18.6, "grassi": 0.2},
+    {"codice": "U0006", "nome": "Fiocchi di latte (cottage cheese), 1% di grassi", "categoria": "Formaggi e latticini", "kcal": 72, "proteine": 12.4, "carboidrati": 2.7, "grassi": 1.0}
+  ]
 }
